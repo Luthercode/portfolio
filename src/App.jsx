@@ -321,7 +321,7 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="container">
-        <p>Desenvolvido por <strong>Anthony "Luther"</strong> — {new Date().getFullYear()}</p>
+        <p>Desenvolvido por <strong>"Luther"</strong> — {new Date().getFullYear()}</p>
         <p className="footer-sub">Construído com React + Vite</p>
       </div>
     </footer>
