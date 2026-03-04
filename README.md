@@ -20,16 +20,6 @@ Portfolio pessoal de desenvolvedor Full Stack. Site one-page moderno com tema da
 - **Skills** — 4 categorias: Frontend, Backend, Database, Ferramentas
 - **Contato** — Links para GitHub, Email e LinkedIn
 
-## 🚀 Como Executar
-
-```bash
-git clone https://github.com/Luthercode/portfolio.git
-cd portfolio
-npm install
-npx vite
-# http://localhost:3003
-```
-
 ## 👤 Autor
 
 **Anthony "Luther"** — Full Stack Developer
